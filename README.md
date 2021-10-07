@@ -2,7 +2,7 @@
        
 # Welcome to My Page
 
-Hi, I’m Salar Ghaffarian. Geospatial Data Scientist and Geomatics Engineer specialized in Remote Sensing, GIS, Computer Vision, Machine learning, Deep Learning.
+Hi, I’m Salar Ghaffarian. **Geospatial Data Scientist** and **Geomatics Engineer** specialized in _Remote Sensing_, _GIS_, _Computer Vision_, _Machine learning_, _Deep Learning_.
  - I’m actively using Deep Learning models for the tasks of object-detection, object sengmentation, instance segmentation, image classification, and so on.
  - I'm currently working on building Deep Learning-related QGIS plugins and some other useful Computer Vision GUIs.
  - I’m looking to collaborate on Deep Vision projects more specifically in the filed of remote sensing and computer vision.
